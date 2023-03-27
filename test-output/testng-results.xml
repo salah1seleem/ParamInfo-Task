@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-27T21:13:30 EET" name="Default suite" finished-at="2023-03-27T21:13:49 EET" duration-ms="18834">
+    <groups>
+    </groups>
+    <test started-at="2023-03-27T21:13:30 EET" name="Default test" finished-at="2023-03-27T21:13:49 EET" duration-ms="18834">
+      <class name="tests.Oman_Packages_Prices_Currency">
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:tests.Oman_Packages_Prices_Currency@2667f029]" started-at="2023-03-27T21:13:25 EET" name="startDriver" finished-at="2023-03-27T21:13:30 EET" duration-ms="5885" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="UserCanChangeCountriesAndCurrency()[pri:1, instance:tests.Oman_Packages_Prices_Currency@2667f029]" started-at="2023-03-27T21:13:30 EET" name="UserCanChangeCountriesAndCurrency" finished-at="2023-03-27T21:13:36 EET" duration-ms="5665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCanChangeCountriesAndCurrency -->
+        <test-method is-config="true" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:tests.Oman_Packages_Prices_Currency@2667f029]" started-at="2023-03-27T21:13:36 EET" name="screenshotOnFailure" finished-at="2023-03-27T21:13:36 EET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserCanChangeCountriesAndCurrency status=SUCCESS method=Oman_Packages_Prices_Currency.UserCanChangeCountriesAndCurrency()[pri:1, instance:tests.Oman_Packages_Prices_Currency@2667f029] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotOnFailure -->
+        <test-method signature="Verify_Lite_Package_for_Oman()[pri:2, instance:tests.Oman_Packages_Prices_Currency@2667f029]" started-at="2023-03-27T21:13:36 EET" name="Verify_Lite_Package_for_Oman" finished-at="2023-03-27T21:13:42 EET" duration-ms="5682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Lite_Package_for_Oman -->
+        <test-method is-config="true" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:tests.Oman_Packages_Prices_Currency@2667f029]" started-at="2023-03-27T21:13:42 EET" name="screenshotOnFailure" finished-at="2023-03-27T21:13:42 EET" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Verify_Lite_Package_for_Oman status=SUCCESS method=Oman_Packages_Prices_Currency.Verify_Lite_Package_for_Oman()[pri:2, instance:tests.Oman_Packages_Prices_Currency@2667f029] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotOnFailure -->
+        <test-method signature="Verify_Classic_Package_for_Oman()[pri:3, instance:tests.Oman_Packages_Prices_Currency@2667f029]" started-at="2023-03-27T21:13:42 EET" name="Verify_Classic_Package_for_Oman" finished-at="2023-03-27T21:13:47 EET" duration-ms="5319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Classic_Package_for_Oman -->
+        <test-method is-config="true" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:tests.Oman_Packages_Prices_Currency@2667f029]" started-at="2023-03-27T21:13:47 EET" name="screenshotOnFailure" finished-at="2023-03-27T21:13:47 EET" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Verify_Classic_Package_for_Oman status=SUCCESS method=Oman_Packages_Prices_Currency.Verify_Classic_Package_for_Oman()[pri:3, instance:tests.Oman_Packages_Prices_Currency@2667f029] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotOnFailure -->
+        <test-method signature="Verify_Premium_Package_for_Oman()[pri:4, instance:tests.Oman_Packages_Prices_Currency@2667f029]" started-at="2023-03-27T21:13:47 EET" name="Verify_Premium_Package_for_Oman" finished-at="2023-03-27T21:13:49 EET" duration-ms="2144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Premium_Package_for_Oman -->
+        <test-method is-config="true" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:tests.Oman_Packages_Prices_Currency@2667f029]" started-at="2023-03-27T21:13:49 EET" name="screenshotOnFailure" finished-at="2023-03-27T21:13:49 EET" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Verify_Premium_Package_for_Oman status=SUCCESS method=Oman_Packages_Prices_Currency.Verify_Premium_Package_for_Oman()[pri:4, instance:tests.Oman_Packages_Prices_Currency@2667f029] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotOnFailure -->
+        <test-method is-config="true" signature="stopDriver()[pri:0, instance:tests.Oman_Packages_Prices_Currency@2667f029]" started-at="2023-03-27T21:13:49 EET" name="stopDriver" finished-at="2023-03-27T21:13:50 EET" duration-ms="880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+      </class> <!-- tests.Oman_Packages_Prices_Currency -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
